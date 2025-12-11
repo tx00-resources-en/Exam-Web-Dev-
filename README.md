@@ -192,7 +192,7 @@ This iteration focuses on setting up the development environment and ensuring th
 > **Note:** Each iteration is graded separately. Before starting this iteration, **ensure** that you have made a **commit for the previous iteration and pushed it to GitHub**.
 
 1. **Fix the Login Issue:**  
-   - The application currently crashes when incorrect login credentials are entered.  
+   - The frontend application currently crashes when incorrect login credentials are entered.  
    - Update the relevant code so that incorrect login attempts are handled gracefully.  
    - A graceful solution should:  
      - Prevent the application from crashing.  
